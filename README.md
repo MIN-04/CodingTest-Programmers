@@ -2,9 +2,14 @@
   
 + 코딩테스트를 준비하기 위해 [Programmers](https://programmers.co.kr/ "Programmers") 문제 풀이를 시작한다.
 + 문제를 풀고, 풀이를 [블로그](https://kimkkoo.tistory.com/ "내 블로그")와 Github에 정리한다.
-+ 언어는 **Java**를 사용한다.
++ 언어는 **Python**과 **Java**를 사용한다.
 
 ## 분류
+
+### 코딩테스트 입문 캘린더 (NEW! - 2022.09.29)
+#### DAY 1
+
+
 #### 스택/큐
   
 + [Level 2. 주식가격](https://github.com/MIN-04/CodingTest-Programmers/blob/master/PracticeKit/Stack_Queue/no42584.java "Level 2 .주식가격")
