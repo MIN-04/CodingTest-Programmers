@@ -9,7 +9,13 @@
 ### 코딩테스트 입문 캘린더 (NEW! - 2022.09.29)
 #### DAY 1
 
++ [Level 0. 두 수의 합](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120802.py "Level 0. 두 수의 합")
++ [Level 0. 두 수의 차](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120803.py "Level 0. 두 수의 차")
++ [Level 0. 두 수의 곱](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120804.py "Level 0. 두 수의 곱")
++ [Level 0. 몫 구하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120805.py "Level 0. 몫 구하기")
 
+
+### 유형별 문제
 #### 스택/큐
   
 + [Level 2. 주식가격](https://github.com/MIN-04/CodingTest-Programmers/blob/master/PracticeKit/Stack_Queue/no42584.java "Level 2 .주식가격")
