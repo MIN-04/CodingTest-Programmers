@@ -6,7 +6,7 @@
 
 ## 분류
 
-### 코딩테스트 입문 캘린더 (NEW! - 2022.09.29)
+### 코딩테스트 입문 캘린더 (Python) (NEW! - 2022.09.29)
 #### DAY 1
 
 + [Level 0. 두 수의 합](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120802.py "Level 0. 두 수의 합")
@@ -14,8 +14,16 @@
 + [Level 0. 두 수의 곱](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120804.py "Level 0. 두 수의 곱")
 + [Level 0. 몫 구하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day1/120805.py "Level 0. 몫 구하기")
 
+#### DAY 2
 
-### 유형별 문제
++ [Level 0. 두 수의 나눗셈](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day2/120806.py "Level 0. 두 수의 나눗셈")
++ [Level 0. 숫자 비교하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day2/120807.py "Level 0. 숫자 비교하기")
++ [Level 0. 분수의 덧셈](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day2/120808.py "Level 0. 분수의 덧셈")
++ [Level 0. 배열 두 배 만들기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Calendar/day2/120809.py "Level 0. 배열 두 배 만들기")
+
+
+
+### 유형별 문제 (Java)
 #### 스택/큐
   
 + [Level 2. 주식가격](https://github.com/MIN-04/CodingTest-Programmers/blob/master/PracticeKit/Stack_Queue/no42584.java "Level 2 .주식가격")
