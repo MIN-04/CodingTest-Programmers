@@ -21,6 +21,11 @@
 + [Level 1. x만큼 간격이 있는 n개의 숫자](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12954.py "Level 1. x만큼 간격이 있는 n개의 숫자")
 + [Level 1. 자연수 뒤집어 배열로 만들기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12932.py "Level 1. 자연수 뒤집어 배열로 만들기")
 + [Level 1. 정수 내림차순으로 배치하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12933.py "Level 1. 정수 내림차순으로 배치하기")
++ [Level 1. 콜라츠 추측](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12943.py "Level 1. 콜라츠 추측")
++ [Level 1. 두 정수 사이의 합](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12912.py "Level 1. 두 정수 사이의 합")
++ [Level 1. 서울에서 김서방 찾기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12919.py "Level 1. 서울에서 김서방 찾기")
++ [Level 1. 핸드폰 번호 가리기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12948.py "Level 1. 핸드폰 번호 가리기")
++ [Level 1. 나누어 떨어지는 숫자 배열](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12910.py "Level 1. 나누어 떨어지는 숫자 배열")
 
 ### 코딩테스트 입문 캘린더 (Python) (NEW!: 2022.09.29 ~)
 #### DAY 1
