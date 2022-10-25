@@ -26,6 +26,18 @@
 + [Level 1. 서울에서 김서방 찾기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12919.py "Level 1. 서울에서 김서방 찾기")
 + [Level 1. 핸드폰 번호 가리기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12948.py "Level 1. 핸드폰 번호 가리기")
 + [Level 1. 나누어 떨어지는 숫자 배열](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12910.py "Level 1. 나누어 떨어지는 숫자 배열")
++ [Level 1. 제일 작은 수 제거하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12935.py "Level 1. 제일 작은 수 제거하기")
++ [Level 1. 음양 더하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no76501.py "Level 1. 음양 더하기")
++ [Level 1. 없는 숫자 더하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no86051.py "Level 1. 없는 숫자 더하기")
++ [Level 1. 가운데 글자 가져오기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12903.py "Level 1. 가운데 글자 가져오기")
++ [Level 1. 수박수박수박수박수박수?](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12922.py "Level 1. 수박수박수박수박수박수?")
++ [Level 1. 내적](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no70128.py "Level 1. 내적")
++ [Level 1. 문자열 내림차순으로 배치하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12917.py "Level 1. 문자열 내림차순으로 배치하기")
++ [Level 1. 문자열 다루기 기본](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12918.py "Level 1. 문자열 다루기 기본")
++ [Level 1. 약수의 개수와 덧셈](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no77884.py "Level 1. 약수의 개수와 덧셈")
++ [Level 1. 부족한 금액 계산하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no82612.py "Level 1. 부족한 금액 계산하기")
++ [Level 1. 직사각형 별찍기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12969.py "Level 1. 직사각형 별찍기")
++ [Level 1. 같은 숫자는 싫어](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12906.py "Level 1. 같은 숫자는 싫어")
 
 ### 코딩테스트 입문 캘린더 (Python) (NEW!: 2022.09.29 ~)
 #### DAY 1
