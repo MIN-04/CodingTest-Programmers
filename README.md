@@ -38,6 +38,9 @@
 + [Level 1. 부족한 금액 계산하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no82612.py "Level 1. 부족한 금액 계산하기")
 + [Level 1. 직사각형 별찍기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12969.py "Level 1. 직사각형 별찍기")
 + [Level 1. 같은 숫자는 싫어](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12906.py "Level 1. 같은 숫자는 싫어")
++ [Level 1. 행렬의 덧셈](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12950.py "Level 1. 행렬의 덧셈")
++ [Level 1. 이상한 문자 만들기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12930.py "Level 1. 이상한 문자 만들기")
++ [Level 1. 최대공약수와 최소공배수](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12940.py "Level 1. 최대공약수와 최소공배수")
 
 ### 코딩테스트 입문 캘린더 (Python) (NEW!: 2022.09.29 ~)
 #### DAY 1
