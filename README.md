@@ -41,6 +41,9 @@
 + [Level 1. 행렬의 덧셈](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12950.py "Level 1. 행렬의 덧셈")
 + [Level 1. 이상한 문자 만들기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12930.py "Level 1. 이상한 문자 만들기")
 + [Level 1. 최대공약수와 최소공배수](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12940.py "Level 1. 최대공약수와 최소공배수")
++ [Level 1. 3진법 뒤집기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no68935.py "Level 1. 3진법 뒤집기")
++ [Level 1. 예산](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12982.py "Level 1. 예산")
++ [Level 1. 시저 암호](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12926.py "Level 1. 시저 암호")
 
 ### 코딩테스트 입문 캘린더 (Python) (NEW!: 2022.09.29 ~)
 #### DAY 1
