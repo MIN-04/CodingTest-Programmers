@@ -46,6 +46,7 @@
 + [Level 1. 시저 암호](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no12926.py "Level 1. 시저 암호")
 + [Level 1. K번째수](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no42748.py "Level 1. K번째수")
 + [Level 1. 두 개 뽑아서 더하기](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no68644.py "Level 1. 두 개 뽑아서 더하기")
++ [Level 1. 모의고사](https://github.com/MIN-04/CodingTest-Programmers/blob/master/Level/Level01/no42840.py "Level 1. 모의고사")
 
 ### 코딩테스트 입문 캘린더 (Python) (NEW!: 2022.09.29 ~)
 #### DAY 1
