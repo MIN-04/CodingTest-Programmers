@@ -1,4 +1,4 @@
-# LEVEL 01 - 42840. 가운데 글자 가져오기 (https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+# LEVEL 01 - 42840. 모의고사 (https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 
 def solution(answers):
     result = []
